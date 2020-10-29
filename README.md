@@ -4,7 +4,7 @@
 
 > This project was created in order to practice and learn basic frontend using JavaScript and DOM.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./img/app_screenshot.png)
 
 It was built completely using only HTML and JavaScript changes the Background color every time the user clicks the button.
 
@@ -38,8 +38,8 @@ and running it into the terminal.
 👤 **Author1**
 
 - GitHub: [@jssarrazolaa](https://github.com/jssarrazolaa)
-- Twitter: [@twitterhandle](https://twitter.com/StevenAlvarez_)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jhonatansarrazola/)
+- Twitter: [@StevenAlvarez_](https://twitter.com/StevenAlvarez_)
+- LinkedIn: [Jhonatan Sarrazola](https://www.linkedin.com/in/jhonatansarrazola/)
 
 
 ## 🤝 Contributing
